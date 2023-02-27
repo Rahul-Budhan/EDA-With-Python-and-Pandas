@@ -5,7 +5,7 @@ This repository contains the materials for the "EDA with Python and Pandas" work
 To get started, clone this repository to your local machine:
 ```
 
-git clone https://github.com/Rahul-Budhan/EDA-With-Python-and-Pandas/
+git clone https://github.com/Rahul-Budhan/EDA-With-Python-and-Pandas
 
 ```
 
